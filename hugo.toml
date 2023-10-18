@@ -1,9 +1,5 @@
-baseURL = 'http://ak-example-site.net/'
 languageCode = 'en-us'
 title = 'AKs Hugo Test Site'
 theme = 'ananke'
 enableEmoji = "true"
 
-[images]
-[[images.imports]]
-    path = '/home/ak/Documents/hugotestsite/themes'
