@@ -2,6 +2,7 @@
 title: "My First Post"
 date: 2023-08-29T16:39:11-04:00
 draft: false
+summary: "My first post I ever wrote for Hugo! Come look at how I learned the basics of markdown syntax via direct implementation!"
 ---
 
 ## Introduction
@@ -35,7 +36,7 @@ it looks like code in here
 Meet Tux, the Linux mascot
 
 
-![Tux the Pinguin](/linux_mascot.png ' ')
+![Tux the Penguin](/linux_mascot.png)
 
 
 
