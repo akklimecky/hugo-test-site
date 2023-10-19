@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AKs Hugo Test Site</title>
+    <link>/posts/myfirstpost/</link>
+    <description>Recent content on AKs Hugo Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Aug 2023 16:39:11 -0400</lastBuildDate><atom:link href="/posts/myfirstpost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/myfirstpost/my-first-post/</link>
+      <pubDate>Tue, 29 Aug 2023 16:39:11 -0400</pubDate>
+      
+      <guid>/posts/myfirstpost/my-first-post/</guid>
+      <description>My first post I ever wrote for Hugo! Come look at how I learned the basics of markdown syntax via direct implementation!</description>
+    </item>
+    
+  </channel>
+</rss>
